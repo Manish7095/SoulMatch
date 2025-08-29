@@ -1,0 +1,369 @@
+[
+  {
+    "id": 1,
+    "name": "Emma R.",
+    "bio": "You never know until you try ✨",
+    "compatibility": 83,
+    "image": "https://randomuser.me/api/portraits/women/65.jpg",
+    "gender": "female",
+    "age": 24,
+    "location": "New York",
+    "interests": ["Music", "Travel"],
+    "education": "Bachelor in Psychology",
+    "occupation": "Marketing Specialist",
+    "family": "Father businessman, mother teacher",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,1",
+      "https://source.unsplash.com/random/400x400/?travel,1",
+      "https://source.unsplash.com/random/400x400/?nature,1"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sophia M.",
+    "bio": "Always keep chasing sunshine 🌞",
+    "compatibility": 74,
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "gender": "female",
+    "age": 28,
+    "location": "California",
+    "interests": ["Reading", "Sports"],
+    "education": "Master in Literature",
+    "occupation": "Content Writer",
+    "family": "Single child, lives with parents",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,2",
+      "https://source.unsplash.com/random/400x400/?books,1"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Olivia W.",
+    "bio": "Find joy in little things 💕",
+    "compatibility": 67,
+    "image": "https://randomuser.me/api/portraits/women/69.jpg",
+    "gender": "female",
+    "age": 26,
+    "location": "Texas",
+    "interests": ["Music", "Reading"],
+    "education": "Bachelor in Arts",
+    "occupation": "Graphic Designer",
+    "family": "Two brothers, parents retired",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,3",
+      "https://source.unsplash.com/random/400x400/?design,1",
+      "https://source.unsplash.com/random/400x400/?art,1"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "James P.",
+    "bio": "Adventure awaits 🌍",
+    "compatibility": 61,
+    "image": "https://randomuser.me/api/portraits/men/65.jpg",
+    "gender": "male",
+    "age": 27,
+    "location": "Texas",
+    "interests": ["Travel", "Sports"],
+    "education": "Bachelor in Engineering",
+    "occupation": "Software Developer",
+    "family": "One elder sister, parents in business",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,1",
+      "https://source.unsplash.com/random/400x400/?travel,2",
+      "https://source.unsplash.com/random/400x400/?sports,1"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Liam K.",
+    "bio": "Life is an adventure 🚀",
+    "compatibility": 70,
+    "image": "https://randomuser.me/api/portraits/men/66.jpg",
+    "gender": "male",
+    "age": 29,
+    "location": "Florida",
+    "interests": ["Sports", "Music"],
+    "education": "Master in Business",
+    "occupation": "Financial Analyst",
+    "family": "Two sisters, parents alive",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,2",
+      "https://source.unsplash.com/random/400x400/?music,1"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ava S.",
+    "bio": "Smile, it suits you 😄",
+    "compatibility": 80,
+    "image": "https://randomuser.me/api/portraits/women/70.jpg",
+    "gender": "female",
+    "age": 25,
+    "location": "Illinois",
+    "interests": ["Cooking", "Travel"],
+    "education": "Bachelor in Commerce",
+    "occupation": "Chef",
+    "family": "One brother, parents alive",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,4",
+      "https://source.unsplash.com/random/400x400/?cooking,1",
+      "https://source.unsplash.com/random/400x400/?travel,3"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Noah T.",
+    "bio": "Coding is my life 💻",
+    "compatibility": 68,
+    "image": "https://randomuser.me/api/portraits/men/67.jpg",
+    "gender": "male",
+    "age": 30,
+    "location": "New York",
+    "interests": ["Gaming", "Reading"],
+    "education": "Bachelor in Computer Science",
+    "occupation": "Software Engineer",
+    "family": "Parents alive, one sister",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,3",
+      "https://source.unsplash.com/random/400x400/?coding,1"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Isabella D.",
+    "bio": "Dream big, achieve bigger ✨",
+    "compatibility": 75,
+    "image": "https://randomuser.me/api/portraits/women/71.jpg",
+    "gender": "female",
+    "age": 27,
+    "location": "California",
+    "interests": ["Art", "Travel"],
+    "education": "Master in Fine Arts",
+    "occupation": "Painter",
+    "family": "Parents retired, one brother",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,5",
+      "https://source.unsplash.com/random/400x400/?painting,1"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mason L.",
+    "bio": "Love for adventure 🏞️",
+    "compatibility": 62,
+    "image": "https://randomuser.me/api/portraits/men/68.jpg",
+    "gender": "male",
+    "age": 26,
+    "location": "Texas",
+    "interests": ["Travel", "Hiking"],
+    "education": "Bachelor in Science",
+    "occupation": "Pilot",
+    "family": "Parents alive, one sister",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,4",
+      "https://source.unsplash.com/random/400x400/?hiking,1",
+      "https://source.unsplash.com/random/400x400/?travel,4"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Charlotte F.",
+    "bio": "Happiness is homemade 🏡",
+    "compatibility": 78,
+    "image": "https://randomuser.me/api/portraits/women/72.jpg",
+    "gender": "female",
+    "age": 29,
+    "location": "Florida",
+    "interests": ["Cooking", "Music"],
+    "education": "Bachelor in Arts",
+    "occupation": "Baker",
+    "family": "One brother, parents alive",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,6",
+      "https://source.unsplash.com/random/400x400/?cooking,2"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ethan B.",
+    "bio": "Fitness first 💪",
+    "compatibility": 65,
+    "image": "https://randomuser.me/api/portraits/men/69.jpg",
+    "gender": "male",
+    "age": 28,
+    "location": "California",
+    "interests": ["Sports", "Travel"],
+    "education": "Bachelor in Physical Education",
+    "occupation": "Fitness Trainer",
+    "family": "Parents alive, one sister",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,5",
+      "https://source.unsplash.com/random/400x400/?sports,2"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Amelia H.",
+    "bio": "Life is art 🎨",
+    "compatibility": 72,
+    "image": "https://randomuser.me/api/portraits/women/73.jpg",
+    "gender": "female",
+    "age": 26,
+    "location": "New York",
+    "interests": ["Art", "Music"],
+    "education": "Bachelor in Fine Arts",
+    "occupation": "Sculptor",
+    "family": "Parents retired, one brother",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,7",
+      "https://source.unsplash.com/random/400x400/?art,2"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Logan C.",
+    "bio": "Adventure and coding 🔥",
+    "compatibility": 60,
+    "image": "https://randomuser.me/api/portraits/men/70.jpg",
+    "gender": "male",
+    "age": 27,
+    "location": "Texas",
+    "interests": ["Coding", "Travel"],
+    "education": "Master in Computer Science",
+    "occupation": "Software Developer",
+    "family": "Parents alive, one sister",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,6",
+      "https://source.unsplash.com/random/400x400/?coding,2"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mia G.",
+    "bio": "Spread love and light 💖",
+    "compatibility": 77,
+    "image": "https://randomuser.me/api/portraits/women/74.jpg",
+    "gender": "female",
+    "age": 25,
+    "location": "Illinois",
+    "interests": ["Music", "Travel"],
+    "education": "Bachelor in Arts",
+    "occupation": "Photographer",
+    "family": "Parents alive, one brother",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,8",
+      "https://source.unsplash.com/random/400x400/?photography,1"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Alexander R.",
+    "bio": "Explorer at heart 🌏",
+    "compatibility": 66,
+    "image": "https://randomuser.me/api/portraits/men/71.jpg",
+    "gender": "male",
+    "age": 29,
+    "location": "Florida",
+    "interests": ["Travel", "Sports"],
+    "education": "Bachelor in Engineering",
+    "occupation": "Travel Blogger",
+    "family": "Parents alive, one brother",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,7",
+      "https://source.unsplash.com/random/400x400/?travel,5"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Harper J.",
+    "bio": "Life is a journey 🌸",
+    "compatibility": 79,
+    "image": "https://randomuser.me/api/portraits/women/75.jpg",
+    "gender": "female",
+    "age": 28,
+    "location": "California",
+    "interests": ["Reading", "Yoga"],
+    "education": "Master in Literature",
+    "occupation": "Yoga Instructor",
+    "family": "Parents alive, two brothers",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,9",
+      "https://source.unsplash.com/random/400x400/?yoga,1"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Benjamin K.",
+    "bio": "Dream, plan, do 🏆",
+    "compatibility": 64,
+    "image": "https://randomuser.me/api/portraits/men/72.jpg",
+    "gender": "male",
+    "age": 30,
+    "location": "New York",
+    "interests": ["Business", "Travel"],
+    "education": "MBA",
+    "occupation": "Entrepreneur",
+    "family": "Parents alive, one sister",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,8",
+      "https://source.unsplash.com/random/400x400/?business,1"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Evelyn P.",
+    "bio": "Find magic in the everyday ✨",
+    "compatibility": 81,
+    "image": "https://randomuser.me/api/portraits/women/76.jpg",
+    "gender": "female",
+    "age": 27,
+    "location": "Texas",
+    "interests": ["Music", "Photography"],
+    "education": "Bachelor in Arts",
+    "occupation": "Music Teacher",
+    "family": "Parents alive, one brother",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,10",
+      "https://source.unsplash.com/random/400x400/?music,3",
+      "https://source.unsplash.com/random/400x400/?photography,2"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Daniel M.",
+    "bio": "Chasing dreams daily 🌟",
+    "compatibility": 69,
+    "image": "https://randomuser.me/api/portraits/men/73.jpg",
+    "gender": "male",
+    "age": 28,
+    "location": "Florida",
+    "interests": ["Sports", "Travel"],
+    "education": "Bachelor in Science",
+    "occupation": "Athlete",
+    "family": "Parents alive, one sister",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?man,9",
+      "https://source.unsplash.com/random/400x400/?sports,3"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Scarlett N.",
+    "bio": "Keep shining bright 🌞",
+    "compatibility": 82,
+    "image": "https://randomuser.me/api/portraits/women/77.jpg",
+    "gender": "female",
+    "age": 26,
+    "location": "Illinois",
+    "interests": ["Art", "Travel"],
+    "education": "Bachelor in Fine Arts",
+    "occupation": "Designer",
+    "family": "Parents alive, one brother",
+    "photos": [
+      "https://source.unsplash.com/random/400x400/?girl,11",
+      "https://source.unsplash.com/random/400x400/?travel,6",
+      "https://source.unsplash.com/random/400x400/?art,3"
+    ]
+  }
+]
